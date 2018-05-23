@@ -26,9 +26,11 @@ namespace sales
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
+
         {
-            Close();
             Console.WriteLine("お前なにわろてんねん");
+
+            Close();
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
