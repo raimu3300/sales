@@ -48,3 +48,6 @@ C:\VSfile\02_0411\sales\sales\obj\Debug\sales_MarkupCompile.cache
 C:\VSfile\02_0411\sales\sales\obj\Debug\sales.g.resources
 C:\VSfile\02_0411\sales\sales\obj\Debug\sales.Properties.Resources.resources
 C:\VSfile\02_0411\sales\sales\obj\Debug\sales.csproj.GenerateResource.Cache
+C:\Users\honka-1\GitHub\sales\sales\buck\sales\bin\Debug\sales.exe.config
+C:\Users\honka-1\GitHub\sales\sales\buck\sales\obj\Debug\sales.exe
+C:\Users\honka-1\GitHub\sales\sales\buck\sales\obj\Debug\sales.pdb
